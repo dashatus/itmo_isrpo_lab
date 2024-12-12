@@ -65,11 +65,13 @@
 - Пример вызова функции: `p = perimetr(5)`
 
 # История изменения проекта
-- **51a2aa4 (HEAD -> new_features_407638) added tests**
+- **f9d967d (HEAD -> new_features_407638, origin/new_features_407638, origin/HEAD) Add workflow for testing**
+коммит о добавлении workflow
+- **51a2aa4 added tests**
 коммит о добавлении модульных тестов
 - **41b5940 added checking for correct args**
 коммит о добавлении проверки корректности параметров в функциях нахождения площадей и периметров
-- **7444cdd (HEAD -> new_features_407638) comments've been added to the files rectangle.py, triangle.py, circle.py, square.py**
+- **7444cdd comments've been added to the files rectangle.py, triangle.py, circle.py, square.py**
 коммит о добавлениях блока комментариев в файлы rectangle.py, triangle.py, circle.py, square.py
 - **071027e rectangle.py fixed**
 коммит об исправлении ошибки вычисления периметра прямоугольника (+ добавление нового файла triangle.py)
